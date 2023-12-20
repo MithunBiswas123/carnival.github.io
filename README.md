@@ -1,3 +1,5 @@
-# carnival.github.io\
-###This is my orld
-`123`/`str`/**commit change**
+##Installation 
+install my-project on npm
+```bash
+npm install my project
+```
