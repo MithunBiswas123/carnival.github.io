@@ -1,5 +1,5 @@
 ##Installation 
 
 ```bash
-npm install my project
+npm install my-project
 ```
